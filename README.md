@@ -1,6 +1,6 @@
 # mopen
 
-> 监听端口，利用IP访问自己的静态页面。
+> 监听端口，利用IP访问自己的静态页面。静态网页位置，可以不必局限于Gruntfile.js所在的目录，可以任意更改。
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`

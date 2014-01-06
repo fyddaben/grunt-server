@@ -1,6 +1,6 @@
 # mopen
 
-> open url
+> 监听端口，利用IP访问自己的静态页面。
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
